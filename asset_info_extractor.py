@@ -12,7 +12,6 @@ Features:
 
 Reference: AI Engineer Assessment (user-uploaded spec).
 
-Replace the line 39 with your OpenAI API key.
 DuckDuckGo scraping is used for demo purposes. In production, this should be replaced with a proper search API like Bing Search or SerpAPI.
 """
 
