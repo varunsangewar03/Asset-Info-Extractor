@@ -31,12 +31,22 @@ This project extracts structured asset details from the web using:
 }
 
 ## 🚀 Features
-	{•	Accepts JSON input (model_number, asset_classification_name required).
+	•	Accepts JSON input (model_number, asset_classification_name required).
 	•	Performs a web search (DuckDuckGo Lite demo).
 	•	Fetches & cleans webpage text.
 	•	Uses OpenAI GPT (gpt-4o-mini) for structured JSON extraction.
 	•	Implements retries (up to 5 attempts) with fallback.
-	•	Logging for transparency & debugging.}
+	•	Logging for transparency & debugging.
 
 
 ⚠️ No API key is included in this repo. Please use your own OpenAI API key to run the project.
+
+
+## 🌍 Notes on Web Search
+	•	DuckDuckGo scraping is used only for demo purposes.
+	•	In production, replace with a proper search API (e.g., Bing Search API, SerpAPI)
+ 
+## 📌 Author
+
+Developed by Varun Sangewar
+For AI/ML Role Assessment @ RedPluto Analytics
