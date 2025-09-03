@@ -30,4 +30,4 @@ This project extracts structured asset details from the web using:
   "summary": "The Cummins MRN85HD is a marine-rated generator..."
 }
 
-##⚠️ No API key is included in this repo. Please use your own OpenAI API key to run the project.
+#⚠️ No API key is included in this repo. Please use your own OpenAI API key to run the project.
